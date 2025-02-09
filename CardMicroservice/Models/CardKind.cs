@@ -1,6 +1,6 @@
 namespace DefaultNamespace;
 
-public enum CardType
+public enum CardKind
 {
     Prepaid,
     Debit,

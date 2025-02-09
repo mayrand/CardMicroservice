@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardMicroservice", "CardMicroservice.csproj", "{52BA6217-2DF9-40A8-AD5A-C39B69FCA1CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardMicroservice.Tests", "CardMicroservice.Tests\CardMicroservice.Tests.csproj", "{B354D80F-1268-4F6F-A038-FF5BF400AA0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardMicroservice", "CardMicroservice\CardMicroservice.csproj", "{82E74DCC-B817-4C14-8970-0FC5BEF5B59E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +16,13 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{52BA6217-2DF9-40A8-AD5A-C39B69FCA1CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{52BA6217-2DF9-40A8-AD5A-C39B69FCA1CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{52BA6217-2DF9-40A8-AD5A-C39B69FCA1CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{52BA6217-2DF9-40A8-AD5A-C39B69FCA1CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B354D80F-1268-4F6F-A038-FF5BF400AA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B354D80F-1268-4F6F-A038-FF5BF400AA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B354D80F-1268-4F6F-A038-FF5BF400AA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B354D80F-1268-4F6F-A038-FF5BF400AA0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E74DCC-B817-4C14-8970-0FC5BEF5B59E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E74DCC-B817-4C14-8970-0FC5BEF5B59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E74DCC-B817-4C14-8970-0FC5BEF5B59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E74DCC-B817-4C14-8970-0FC5BEF5B59E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

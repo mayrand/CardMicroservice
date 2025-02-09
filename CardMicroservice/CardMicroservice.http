@@ -1,6 +1,6 @@
 @CardMicroservice_HostAddress = http://localhost:5027
 
-GET {{CardMicroservice_HostAddress}}/weatherforecast/
+GET {{CardMicroservice_HostAddress}}/api/card/User1/Card11/
 Accept: application/json
 
 ###

@@ -1,4 +1,4 @@
-namespace DefaultNamespace;
+namespace CardMicroservice.Models;
 
 public enum CardKind
 {

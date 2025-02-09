@@ -1,4 +1,4 @@
-using DefaultNamespace;
+using CardMicroservice.Models;
 
 namespace CardMicroservice;
 

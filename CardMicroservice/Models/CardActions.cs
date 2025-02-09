@@ -1,4 +1,4 @@
-namespace DefaultNamespace;
+namespace CardMicroservice.Models;
 
 [Flags]
 public enum CardActions
